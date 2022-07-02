@@ -1,5 +1,5 @@
 # React TypeScript Resume Web Template
-A lightweight React-TypeScript resume web template for all people.
+A lightweight React-TypeScript resume template.
 
 [LIVE DEMO](https://annajanicka.dev)
 
@@ -15,7 +15,6 @@ If you would like to use this template for your own personal resume website, rea
 
 - [Node.js](https://nodejs.org/) (the most recent LTS version)
 - [Yarn](https://yarnpkg.com/en/docs/install) (the most recent stable version)
-- [Visual Studio Code](https://code.visualstudio.com/) for development.
 
 ## Development setup
 
