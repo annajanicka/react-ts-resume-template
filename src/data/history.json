@@ -1,0 +1,54 @@
+{
+  "education": [
+    {
+      "period": "2013 – 2014",
+      "school": "Wrocław University of Science and Technology",
+      "degree": "Master of Computer Science",
+      "description": "Thesis: Application of a genetic algorithm to web application development for the courier activity support "
+    },
+    {
+      "period": "2009 – 2014",
+      "school": "Wrocław University of Science and Technology",
+      "degree": "Bachelor of Electronics and Telecommunication",
+      "description": "Project: Strip cutting problem and its applications "
+    }
+  ],
+  "career": [
+    {      
+      "period": "Feb 2022 - Present",
+      "company": "Laing O'Rourke",
+      "title": "Application Development Manager",
+      "description": "<p>Brisbane, Queensland, Australia<\/p>"
+    },
+    {      
+      "period": "Aug 2020 - Feb 2022",
+      "company": "Laing O'Rourke",
+      "title": "Senior Application Developer",
+      "description": "<p>Brisbane, Queensland, Australia<\/p>"
+    },
+    {      
+      "period": "October 2018 to July 2020",
+      "company": "Telstra Purple (Readify)",
+      "title": "Senior developer",
+      "description": "<p>Brisbane, Queensland, Australia<\/p>"
+    },
+    {      
+      "period": "January 2018 to September 2018 ",
+      "company": "Online Solutions",
+      "title": "Senior .NET developer",
+      "description": "<p>Wrocław, Poland<\/p>"
+    },
+    {      
+      "period": "October 2014 to January 2018",
+      "company": "Online Solutions",
+      "title": "Software engineer (.NET)",
+      "description": "<p>Wrocław, Poland<\/p>"
+    },
+    {      
+      "period": "June 2012 to October 2014 ",
+      "company": "Hicron",
+      "title": "Junior Consultant (.NET)",
+      "description": "<p>Wrocław, Poland<\/p>"
+    }
+  ]
+}

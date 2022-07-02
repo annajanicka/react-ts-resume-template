@@ -1,0 +1,26 @@
+{
+    "customContent": "Would you like to talk about tech? <a href=\"#contact\">Click here<\/a> to contact me! <span role=\"img\" aria-label=\"wave\">👋<\/span>",
+    "services": [
+        {
+            "title": ".NET Core",
+            "photo": "\/images\/dot-net-core-7.svg",
+            "backgroundColor": "aliceblue",
+            "content": "Create microservices architecture with .NET Core",
+            "delay": 0
+        },
+        {
+            "title": "React",
+            "photo": "\/images\/react-2.svg",
+            "backgroundColor": "white",
+            "content": "React? The greatest invention since the wheel",
+            "delay": 1000
+        },
+        {
+            "title": "Azure",
+            "photo": "\/images\/azure-1.svg",
+            "backgroundColor": "azure",
+            "content": "A cloud computing service operated by Microsoft",
+            "delay": 2000
+        }
+    ]
+}

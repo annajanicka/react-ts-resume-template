@@ -1,0 +1,48 @@
+{
+  "username": "Anna Janicka",
+  "avatar": "\/images\/me.jpg",
+  "objective": "<p>I am a professional with over 10 years of commercial experience in creating software using best practices and quality standards. I possess expert knowledge in developing web applications based on .NET framework and React as well as Azure services. I am adept at solving complex problems requiring interdisciplinary research and keen to learn new things and expand my horizons. I have experience in managing dev teams of 5-6 people as a technical leader and line manager. <\/p>",
+  "resumeUrl": "#",
+  "skills": [
+    {
+      "name": ".NET Core",
+      "confidence": 100,
+      "color": "rgb(255, 209, 92)"
+    },
+    {
+      "name": "React",
+      "confidence": 95,
+      "color": "rgb(108, 108, 229)"
+    },
+    {
+      "name": "TypeScript",
+      "confidence": 90,
+      "color": "rgb(255, 76, 96)"
+    },
+    {
+      "name": "Azure",
+      "confidence": 85,
+      "color": "rgb(51, 105, 30)"
+    }
+  ],
+  "statistics": [
+    {
+      "number": 5,
+      "title": "Open-source projects",
+      "iconPrefix": "fab",
+      "iconName": "github"
+    },
+    {
+      "number": 10,
+      "title": "Years of experience",
+      "iconPrefix": "far",
+      "iconName": "calendar"
+    },
+    {
+      "number": 7355,
+      "title": "Cups of coffee",
+      "iconPrefix": "fas",
+      "iconName": "coffee"
+    }
+  ]
+}

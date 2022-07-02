@@ -1,0 +1,9 @@
+export { About } from "./About";
+export { Education } from "./Education";
+export { Experience } from "./Experience";
+export { Footer } from "./Footer";
+export { Header } from "./Header";
+export { Home } from "./Home";
+export { Services } from "./Services";
+export { Tools } from "./Tools";
+export { Contact } from "./Contact";

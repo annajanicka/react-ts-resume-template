@@ -1,0 +1,21 @@
+{
+  "firstName": "Anna",
+  "middleName": ".",
+  "lastName": "Janicka",
+  "avatar": "\/images\/me.jpg",
+  "titles": [
+    "a .NET & React Developer",
+    "a Tech Lead",
+    "an Application Development Manager"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://github.com/annajanicka/react-cv-template",
+      "iconName": "faGithub"
+    },
+    {
+      "link": "https://www.linkedin.com/in/janicka-anna",
+      "iconName": "faLinkedin"
+    }
+  ]
+}

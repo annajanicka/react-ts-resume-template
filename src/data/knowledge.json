@@ -1,0 +1,36 @@
+{
+    "tools": [
+        {
+            "name": ".net core",
+            "image": "\/images\/dotnetcore-bw.svg"
+        },
+        {
+            "name": "React",
+            "image": "\/images\/react-bw.svg"
+        },
+        {
+            "name": "azure",
+            "image": "\/images\/azure-bw.svg"
+        },
+        {
+            "name": "typescript",
+            "image": "\/images\/typescript-bw.svg"
+        },
+        {
+            "name": "html5",
+            "image": "\/images\/html5-bw.svg"
+        },
+        {
+            "name": "css3",
+            "image": "\/images\/css3-bw.svg"
+        },
+        {
+            "name": "sql server",
+            "image": "\/images\/sqlserver-bw.svg"
+        },
+        {
+            "name": "graphql",
+            "image": "\/images\/graphql-bw.svg"
+        }
+    ]
+}
