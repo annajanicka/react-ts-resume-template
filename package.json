@@ -2,7 +2,7 @@
   "name": "react-ts-resume-template",
   "version": "1.0.0",
   "homepage": "https://annajanicka.github.io/react-ts-resume-template",
-  "repository": "https://github.com/annajanicka/react-cv-template",
+  "repository": "https://github.com/annajanicka/react-ts-resume-template",
   "author": "Anna Janicka",
   "license": "MIT",
   "dependencies": {
@@ -65,3 +65,4 @@
     "tslint-react": "^5.0.0"
   }
 }
+
